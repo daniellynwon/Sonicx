@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://14.34.80.79/public_html/SmartMES_Sonicx/|ftp://14.34.80.79/public_html/SmartMES_HyunChang/|ftp\|C:\Users\ifrom\source\repos\SmartMES_Sonicx\publish\|게시\</PublishUrlHistory>
+    <InstallUrlHistory>http://14.34.80.79/innobemes/SmartMES_Sonicx/|http://14.34.80.79/innobemes/SmartMES_HyunChang/|http://innobe1.iptime.org/SmartMES_Sonicx/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>ko-KR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

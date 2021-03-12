@@ -1,0 +1,1910 @@
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CoreCompileInputs.cache
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\RdlCompile.cache
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\RdlCompile.compiled
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D01_MACHINECARD.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D02_MACHINE_LIST.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MachineFinder.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MachineFinder.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE_SUB.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B01_ESTIMATE.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D01_MACHINECARD.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D02_MACHINE_LIST.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE.resources
+E:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MachineFinder.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B01_ESTIMATE.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D01_MACHINECARD.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D02_MACHINE_LIST.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\RdlCompile.cache
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\RdlCompile.compiled
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CoreCompileInputs.cache
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+D:\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MachineFinder.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B01_ESTIMATE.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D01_MACHINECARD.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D02_MACHINE_LIST.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\Jaewon\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B02_ESTIMATE_LIST.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MachineFinder.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B01_ESTIMATE.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B02_ESTIMATE_LIST.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D01_MACHINECARD.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D02_MACHINE_LIST.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+E:\프로젝트20200727\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B05_DELIVERY.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B05_DELIVERY_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B06_DELI_PROGRESS.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B07_DELI_REPORT.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B08_DELI_TERM.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B09_DELI_NON.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B10_PURCHASE_MAT.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B10_PURCHASE_MAT_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B10_PURCHASE_MAT_IN.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL_IN.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL_RORDER.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B12_BUY_ITEM.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE_MOVE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE_DANGA.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_ORDER.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_IDLE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_NG.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MachineFinder.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PDCLOSE_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A04_PROCESS_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A05_STOCK_MOVE_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B01_ESTIMATE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B02_ESTIMATE_LIST.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B05_DELIVERY.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B05_DELIVERY_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B06_DELI_PROGRESS.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B07_DELI_REPORT.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B08_DELI_TERM.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B09_DELI_NON.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B10_PURCHASE_MAT.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B10_PURCHASE_MAT_IN.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B10_PURCHASE_MAT_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL_IN.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL_RORDER.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B11_PURCHASE_TOLL_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B12_BUY_ITEM.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE_DANGA.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE_MOVE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B13_STOCK_TABLE_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_IDLE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_NG.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_ORDER.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D01_MACHINECARD.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D02_MACHINE_LIST.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D03_MAINTENANCE_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+C:\Users\Jaewon\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C03_PROD_DONE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C03_PROD_DONE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C04_MATERIAL_USE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C04_MATERIAL_USE_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C05_PROD_TERM.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C06_PROD_IDLE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C07_PROD_MACHINE.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C08_PROD_ITEM.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C09_PROD_NG.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1D04_MACHINE_TIME.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1ED01_QC_FINAL.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1ED02_QC_FINAL_LIST.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1ED03_QC_AS.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1ED03_QC_AS_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1ED03_QC_AS_DELI.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1FD01_KPI.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1FD02_PROD_BOARD.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_FINISH.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C02_PROD_RESULT_TOLL.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1FD02_PROD_BOARD1.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.ResolveComReference.cache
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.application
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.TrustInfo.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.application
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C03_PROD_DONE_NG.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C03_PROD_DONE_SUB.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM.resources
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll.config
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ifrom\source\repos\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER_DOC.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.ResolveComReference.cache
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CoreCompileInputs.cache
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.application
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll.config
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.TrustInfo.xml
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.application
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN_SUB.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER_SUB.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\RdlCompile.cache
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\RdlCompile.compiled
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM_LIST.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\ifrom\Desktop\SmartMES_Sonicx\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.config
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.ResolveComReference.cache
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM_LIST.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER_SUB.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN_SUB.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\RdlCompile.cache
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\RdlCompile.compiled
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CoreCompileInputs.cache
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.application
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Google.Protobuf.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\MySql.Data.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\EnvDTE80.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\VSLangProj.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\VSLangProj80.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\VSLangProj2.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\MySql.Data.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll.config
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.TrustInfo.xml
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.application
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\ifrom\Desktop\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.application
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.xml
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll.config
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.ResolveComReference.cache
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PROD_INFO.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PROD_INFO_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB1.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB2.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM_LIST.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\RdlCompile.cache
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\RdlCompile.compiled
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.TrustInfo.xml
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.application
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
+C:\Users\danie\Documents\KakaoTalk Downloads\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.config
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.application
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.exe
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\SmartMES_Sonicx.pdb
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Renci.SshNet.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\EnvDTE.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\stdole.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\Microsoft.MSXML.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.xml
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.dll.config
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.ResolveComReference.cache
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.CustFinder.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PostAddr.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ProdFinder.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_H.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.ViewReport_V.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormBasic.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormLogin.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormMain.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.FormNotify.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.MDIForm.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A01_CUSTOMER_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PRODUCT_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PROD_INFO.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A02_PROD_INFO_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB1.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A03_COMMON_SUB2.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1A06_BOM_LIST.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B03_RORDER.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1B04_RORDER_LIST.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_ORDER_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1C01_PROD_PLAN_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z01_POS.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z02_USER_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z04_AUTHORITY.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z05_NOTIFY_SUB.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.P1Z06_LOG.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.Properties.Resources.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.PwdChange.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.UserButtonA.resources
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\RdlCompile.cache
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\RdlCompile.compiled
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.TrustInfo.xml
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe.manifest
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.application
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.csproj.CopyComplete
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.exe
+C:\Users\danie\Desktop\New folder\temp\SmartMES_Sonicx\obj\Debug\SmartMES_Sonicx.pdb
